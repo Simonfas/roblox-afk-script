@@ -11,4 +11,7 @@
 
 # INFORMATION
 
-**WINDOWS ONLY!**
+- WINDOWS ONLY!
+- Roblox window must be focused when activated.
+- Press Ctrl + C in the powershell terminal to stop the script.
+- Don’t have Roblox chat opened while using the script.
